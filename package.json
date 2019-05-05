@@ -1,0 +1,40 @@
+{
+  "name": "reading-time-emoji",
+  "version": "1.0.0",
+	"description": "Format article reading time into emoji",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/dutiyesh/reading-time-emoji.git"
+	},
+	"author": {
+		"name": "Dutiyesh Salunkhe",
+		"email": "dutiyesh@gmail.com"
+	},
+	"homepage": "https://github.com/dutiyesh/reading-time-emoji#readme",
+	"bugs": {
+    "url": "https://github.com/dutiyesh/reading-time-emoji/issues"
+  },
+	"engines": {
+		"node": ">=8"
+	},
+  "main": "index.js",
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "keywords": [
+		"reading-time",
+		"emoji",
+		"calculate",
+		"blog",
+		"article",
+		"read",
+		"time",
+		"javascript",
+		"node"
+	],
+  "devDependencies": {
+    "ava": "^1.4.1",
+    "xo": "^0.24.0"
+  }
+}
