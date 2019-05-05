@@ -1,4 +1,4 @@
-# reading-time-emoji
+# reading-time-emoji [![Build Status](https://travis-ci.org/dutiyesh/reading-time-emoji.svg?branch=master)](https://travis-ci.org/dutiyesh/reading-time-emoji)
 
 > Format article reading time into emoji
 
